@@ -95,7 +95,7 @@ def combate(p1, p2):
         turno += 1
 
 # --- Configuración del Duelo ---
-ragnar = Guerrero("Ragnar", 100, 30, 20)
-gandalf = Mago("Gandalf", 80, 40, 10)
+Asta = Guerrero("Asta", 100, 30, 20)
+Yuno = Mago("Yuno", 80, 40, 10)
 
-combate(ragnar, gandalf)
+combate(Asta, Yuno)
